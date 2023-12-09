@@ -35,7 +35,7 @@ My research interests mainly lie in 3D generation and computer graphics.
 
 Tong Wu<sup>*</sup>, **Zhibing Li**<sup>*</sup>, Shuai Yang<sup>*</sup>, Pan Zhang, Xingang Pan, Jiaqi Wang, Ziwei Liu<sup>†</sup>, Dahua Lin<sup>†</sup>
 
-[**[Paper]**](https://arxiv.org/abs/2312.04543).&nbsp;
+[**[Paper]**](https://arxiv.org/abs/2312.04543)&nbsp;
 [**[Project]**](https://ys-imtech.github.io/HyperDreamer/)&nbsp;
 [**[Code (coming soon)]**](https://github.com/wutong16/HyperDreamer/)
 </div>
