@@ -28,6 +28,19 @@ My research interests mainly lie in 3D generation and computer graphics.
 # 📝 Publications 
 †: corresponding author; *:equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/paper/GPT4Eval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://gpteval3d.github.io/)
+
+Tong Wu<sup>*</sup>, Guandao Yang<sup>*</sup>, **Zhibing Li**<sup>*</sup>, Kai Zhang, Ziwei Liu, Dahua Lin, Gordon Wetzstein
+
+[**[Paper]**](https://arxiv.org/abs/2401.04092)&nbsp;
+[**[Project]**](https://gpteval3d.github.io/)&nbsp;
+[**[Code]**](https://github.com/3DTopia/GPTEval3D/)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGPRAH Asia 2023</div><img src='images/paper/HyperDreamer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
