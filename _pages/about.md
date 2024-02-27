@@ -18,7 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi! I am a second-year Ph.D. student at [Multimedia Laboratory (MMLAB)](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Dahua Lin](http://dahua.site/). 
-I also work closely with [Tong Wu](https://wutong16.github.io/). I received my Bachelor’s degree in the [Department of Computure Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022.
+I also work closely with [Tong Wu](https://wutong16.github.io/). 
+Before that, I received my Bachelor’s degree in the [Department of Computure Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022.
+
 My research interests mainly lie in 3D generation and computer graphics.
 
 
