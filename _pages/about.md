@@ -23,12 +23,13 @@ My research interests mainly lie in 3D generation and computer graphics.
 
 
 # 🔥 News
+- *2024.03*: &nbsp; One paper accepted to [CVPR 2024](https://cvpr.thecvf.com/).
 - *2023.08*: &nbsp; One paper accepted to [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/).
 
 # 📝 Publications 
 †: corresponding author; *:equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/paper/GPT4Eval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/paper/GPT4Eval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://gpteval3d.github.io/)
