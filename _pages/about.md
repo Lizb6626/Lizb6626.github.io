@@ -95,5 +95,15 @@ My research interests mainly lie in 3D generation and computer graphics.
 - *2022.08 - Present*, Ph.D. in Information Engineering, The Chinese University of Hong Kong.
 - *2018.08 - 2022.06*, B.Sc. in Computure Science and Technology, Tsinghua University.
 
-<!-- # 🧊 Misc
-- -->
+# 🌐 Experiences
+- **Research Intern**, Amazon Web Services, Seattle, United States (2024.09 - 2024.11)  
+  with Zheng Zhang and [Fanzi Wu](https://fanziapril.github.io/home/)
+
+# 🖥️ Professional Services
+- Conference reviewer for NeurIPS'24, ICLR'25
+- Teaching Assistant for Final Year Project ([IERG4998](https://www.ie.cuhk.edu.hk/courses/ierg4998-final-year-project-i/) and [IERG4999](https://www.ie.cuhk.edu.hk/courses/ierg4999-final-year-project-ii/))
+
+# 🧊 Misc
+- I was born and raised in Sichuan, a place I deeply cherish and love.
+- Besides research, I have a great passion for anime and Britpop. My favorite character is [Asuka](https://evangelion.fandom.com/wiki/Asuka_Langley_Sohryu), and I’m a big fan of Oasis.
+- I'm fortunate to have [Mengchen](https://kszpxxzmc.github.io/) as both my best friend and collaborator.
