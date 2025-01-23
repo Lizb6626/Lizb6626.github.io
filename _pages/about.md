@@ -25,7 +25,7 @@ My research interests mainly lie in 3D generation and computer graphics.
 
 
 # 🔥 News
-- *2025.01*: &nbsp; One paper accepted to [ICLR 2024](https://iclr.cc/Conferences/2025).
+- *2025.01*: &nbsp; One paper accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
 - *2024.03*: &nbsp; One paper accepted to [CVPR 2024](https://cvpr.thecvf.com/).
 - *2023.08*: &nbsp; One paper accepted to [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/).
 
