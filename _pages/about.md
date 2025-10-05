@@ -17,20 +17,65 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a third-year Ph.D. student at [Multimedia Laboratory (MMLAB)](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Dahua Lin](http://dahua.site/). 
+Hi! I am a final year Ph.D. student at [Multimedia Laboratory (MMLAB)](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Dahua Lin](http://dahua.site/). 
 I also work closely with Dr. [Tong Wu](https://wutong16.github.io/). 
 Before that, I received my Bachelor’s degree in the [Department of Computure Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022.
 
 My research interests mainly lie in 3D generation and computer graphics.
 
+<span style="color: red;">I’m expecting to graduate in the summer of 2026 and am currently exploring Research Scientist opportunities. Feel free to reach out if you have an opening!</span>
 
 # 🔥 News
+- *2025.09*: &nbsp; One paper accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025/Dates).
+- *2025.09*: &nbsp; Started my internship at Amazon in Santa Clara.
+- *2025.08*: &nbsp; One paper accepted as a Journal Paper to [SIGGRAPH Asia 2025](https://asia.siggraph.org/2025/).
 - *2025.01*: &nbsp; One paper accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
-- *2024.03*: &nbsp; One paper accepted to [CVPR 2024](https://cvpr.thecvf.com/).
-- *2023.08*: &nbsp; One paper accepted to [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/).
+<!-- - *2024.03*: &nbsp; One paper accepted to [CVPR 2024](https://cvpr.thecvf.com/). -->
+<!-- - *2023.08*: &nbsp; One paper accepted to [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/). -->
 
 # 📝 Publications 
 †: corresponding author; *:equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025 (TOG)</div><img src='images/paper/SS4D.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SS4D: Native 4D Generative Model via Structured Spacetime Latents**
+
+**Zhibing Li<sup>*</sup>,**,
+[Mengchen Zhang<sup>*</sup>](https://kszpxxzmc.github.io/),
+[Tong Wu<sup>†</sup>](https://wutong16.github.io/),
+[Jing Tan](https://sparkstj.github.io/),
+[Mengchen Zhang](https://kszpxxzmc.github.io/),
+[Jiaqi Wang](https://myownskyw7.github.io/),
+[Dahua Lin<sup>†</sup>](https://dahua.site/)
+<!-- 
+[**[Paper]**](https://arxiv.org/abs/2412.12083)&nbsp;
+[**[Project]**](https://lizb6626.github.io/IDArb/)&nbsp;
+[**[Code]**](https://github.com/Lizb6626/IDArb/)&nbsp;
+[**[Data]**](https://huggingface.co/datasets/lizb6626/Arb-Objaverse) -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paper/HiEval3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hi3DEval: Advancing 3D Generation Evaluation with Hierarchical Validity**
+
+Yuhan Zhang<sup>*</sup>,
+[Long Zhuo<sup>*</sup>](https://zhuolong3.github.io/),
+[Ziyang Chu<sup>*</sup>](https://github.com/ChooseSun),
+[Tong Wu<sup>†</sup>](https://wutong16.github.io/),
+**Zhibing Li**,
+[Liang Pan<sup>†</sup>](https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN),
+[Dahua Lin](https://dahua.site/),
+[Ziwei Liu<sup>†</sup>](https://liuziwei7.github.io/)
+
+[**[Paper]**](https://arxiv.org/abs/2508.05609)&nbsp;
+[**[Project]**](https://zyh482.github.io/Hi3DEval/)
+<!-- [**[Code]**](https://github.com/Lizb6626/IDArb/)&nbsp; -->
+<!-- [**[Data]**](https://huggingface.co/datasets/lizb6626/Arb-Objaverse) -->
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/paper/IDArb.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
