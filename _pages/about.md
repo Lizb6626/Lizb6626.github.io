@@ -48,11 +48,10 @@ My research interests mainly lie in 3D generation and computer graphics.
 [Mengchen Zhang](https://kszpxxzmc.github.io/),
 [Jiaqi Wang](https://myownskyw7.github.io/),
 [Dahua Lin<sup>†</sup>](https://dahua.site/)
-<!-- 
-[**[Paper]**](https://arxiv.org/abs/2412.12083)&nbsp;
-[**[Project]**](https://lizb6626.github.io/IDArb/)&nbsp;
-[**[Code]**](https://github.com/Lizb6626/IDArb/)&nbsp;
-[**[Data]**](https://huggingface.co/datasets/lizb6626/Arb-Objaverse) -->
+
+[**[Paper]**](https://arxiv.org/abs/2512.14284)&nbsp;
+[**[Project]**](https://lizb6626.github.io/SS4D/)&nbsp;
+[**[Code]**](https://github.com/Lizb6626/SS4D/)&nbsp;
 </div>
 </div>
 
