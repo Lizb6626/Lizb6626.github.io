@@ -45,7 +45,6 @@ My research interests mainly lie in 3D generation and computer graphics.
 [Mengchen Zhang<sup>*</sup>](https://kszpxxzmc.github.io/),
 [Tong Wu<sup>†</sup>](https://wutong16.github.io/),
 [Jing Tan](https://sparkstj.github.io/),
-[Mengchen Zhang](https://kszpxxzmc.github.io/),
 [Jiaqi Wang](https://myownskyw7.github.io/),
 [Dahua Lin<sup>†</sup>](https://dahua.site/)
 
