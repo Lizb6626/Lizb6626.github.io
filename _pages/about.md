@@ -140,12 +140,16 @@ Yuhan Zhang<sup>*</sup>,
 - *2018.08 - 2022.06*, B.Sc. in Computure Science and Technology, Tsinghua University.
 
 # 🌐 Experiences
-- **Research Intern**, Amazon Web Services, Seattle, United States (2024.09 - 2024.11)  
+
+- **Applied Scientist Intern**, Amazon, Sunnyvale, United States (2025.09 - 2026.03)  
+  with [Dan Casas](https://dancasas.github.io//)
+
+- **Applied Scientist Intern**, Amazon Web Services, Seattle, United States (2024.09 - 2024.11)  
   with Zheng Zhang and [Fanzi Wu](https://fanziapril.github.io/home/)
 
 # 🖥️ Professional Services
 - Conference reviewer for NeurIPS'24, ICLR'25
-- Teaching Assistant for Final Year Project ([IERG4998](https://www.ie.cuhk.edu.hk/courses/ierg4998-final-year-project-i/) and [IERG4999](https://www.ie.cuhk.edu.hk/courses/ierg4999-final-year-project-ii/))
+- Teaching Assistant for Fial Year Project ([IERG4998](https://www.ie.cuhk.edu.hk/courses/ierg4998-final-year-project-i/) and [IERG4999](https://www.ie.cuhk.edu.hk/courses/ierg4999-final-year-project-ii/))
 
 # 🧊 Misc
 - I was born and raised in Sichuan, a place I deeply cherish and love.
