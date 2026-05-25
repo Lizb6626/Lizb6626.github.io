@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a final year Ph.D. student at [Multimedia Laboratory (MMLAB)](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Dahua Lin](http://dahua.site/). 
-I also work closely with Dr. [Tong Wu](https://wutong16.github.io/). 
+Hi! I am a final year Ph.D. student at [Multimedia Laboratory (MMLAB)](https://mmlab.ie.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html), supervised by Prof. [Dahua Lin](http://dahua.site/).
 Before that, I received my Bachelor’s degree in the [Department of Computure Science and Technology](https://www.cs.tsinghua.edu.cn/csen/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2022.
 
 My research interests mainly lie in 3D generation and computer graphics.
@@ -36,12 +35,28 @@ My research interests mainly lie in 3D generation and computer graphics.
 # 📝 Publications 
 †: corresponding author; *:equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/paper/globalnvs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Global Pose Control for Generative View Synthesis in Normalized Object Coordinate Space**
+
+**Zhibing Li**,
+[Amogh Gupta](https://scholar.google.com/citations?user=GckWe2cAAAAJ&hl=en),
+[Behnoosh Parsa](https://scholar.google.com/citations?user=M42GpSoAAAAJ&hl=en),
+[Dan Casas](https://dancasas.github.io/)
+
+<!-- [**[Paper]**](https://arxiv.org/abs/2512.14284)&nbsp;
+[**[Project]**](https://lizb6626.github.io/SS4D/)&nbsp;
+[**[Code]**](https://github.com/Lizb6626/SS4D/)&nbsp; -->
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2025 (TOG)</div><img src='images/paper/SS4D.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SS4D: Native 4D Generative Model via Structured Spacetime Latents**
 
-**Zhibing Li<sup>*</sup>,**,
+**Zhibing Li<sup>*</sup>**,
 [Mengchen Zhang<sup>*</sup>](https://kszpxxzmc.github.io/),
 [Tong Wu<sup>†</sup>](https://wutong16.github.io/),
 [Jing Tan](https://sparkstj.github.io/),
@@ -142,7 +157,7 @@ Yuhan Zhang<sup>*</sup>,
 # 🌐 Experiences
 
 - **Applied Scientist Intern**, Amazon, Sunnyvale, United States (2025.09 - 2026.03)  
-  with [Dan Casas](https://dancasas.github.io//)
+  with [Dan Casas](https://dancasas.github.io/)
 
 - **Applied Scientist Intern**, Amazon Web Services, Seattle, United States (2024.09 - 2024.11)  
   with Zheng Zhang and [Fanzi Wu](https://fanziapril.github.io/home/)
