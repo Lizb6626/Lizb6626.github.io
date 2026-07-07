@@ -25,10 +25,11 @@ My research interests mainly lie in 3D generation and computer graphics.
 <span style="color: red;">I’m expecting to graduate in the summer of 2026 and am currently exploring Research Scientist opportunities. Feel free to reach out if you have an opening!</span>
 
 # 🔥 News
+- *2026.06*: &nbsp; One paper accepted to [ECCV 2026](https://eccv.ecva.net/Conferences/2026/Dates).
 - *2025.09*: &nbsp; One paper accepted to [NeurIPS 2025](https://neurips.cc/Conferences/2025/Dates).
 - *2025.09*: &nbsp; Started my internship at Amazon in Santa Clara.
 - *2025.08*: &nbsp; One paper accepted as a Journal Paper to [SIGGRAPH Asia 2025](https://asia.siggraph.org/2025/).
-- *2025.01*: &nbsp; One paper accepted to [ICLR 2025](https://iclr.cc/Conferences/2025).
+<!-- - *2025.01*: &nbsp; One paper accepted to [ICLR 2025](https://iclr.cc/Conferences/2025). -->
 <!-- - *2024.03*: &nbsp; One paper accepted to [CVPR 2024](https://cvpr.thecvf.com/). -->
 <!-- - *2023.08*: &nbsp; One paper accepted to [SIGGRAPH Asia 2023](https://asia.siggraph.org/2023/). -->
 
@@ -45,9 +46,9 @@ My research interests mainly lie in 3D generation and computer graphics.
 [Behnoosh Parsa](https://scholar.google.com/citations?user=M42GpSoAAAAJ&hl=en),
 [Dan Casas](https://dancasas.github.io/)
 
-<!-- [**[Paper]**](https://arxiv.org/abs/2512.14284)&nbsp;
-[**[Project]**](https://lizb6626.github.io/SS4D/)&nbsp;
-[**[Code]**](https://github.com/Lizb6626/SS4D/)&nbsp; -->
+[**[Paper]**](https://arxiv.org/abs/2607.02712)&nbsp;
+[**[Project]**](https://lizb6626.github.io/GlobalNVS/)&nbsp;
+[**[Code]**](https://github.com/Lizb6626/GlobalNVS/)&nbsp;
 </div>
 </div>
 
